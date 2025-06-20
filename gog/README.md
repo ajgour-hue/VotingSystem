@@ -25,3 +25,6 @@ To create a transparent and tamper-proof digital voting mechanism where decision
 > Deployed By:  
 > Verified: [Yes/No]  
 > ABI File: `artifacts/contracts/VotingSystem.sol/VotingSystem.json`  
+
+
+![image](https://github.com/user-attachments/assets/6a93f022-490f-4584-b8a4-7eb69d6691b0)
